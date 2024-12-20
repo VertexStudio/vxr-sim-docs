@@ -59,13 +59,11 @@ Defines the physical size of each grid cell (floor):
 ├─┼─┼─┤
 └─┴─┴─┘
 3x3 grid (3x3 units total).
-
 **Tile Size (2,1)**
 ┌──┬──┬──┐
 ├──┼──┼──┤
 └──┴──┴──┘
 3x3 grid (6x3 units total).
-
 **Tile Size (2,2)**
 ┌──┬──┬──┐
 ├──┼──┼──┤
