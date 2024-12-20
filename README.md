@@ -54,21 +54,25 @@ Defines the physical size of each grid cell (floor):
 
 - **Examples:**
 
-**Tile Size (1,1)**
+```
+Tile Size (1,1)
 ┌─┬─┬─┐
 ├─┼─┼─┤
 └─┴─┴─┘
 3x3 grid (3x3 units total).
-**Tile Size (2,1)**
+
+Tile Size (2,1)
 ┌──┬──┬──┐
 ├──┼──┼──┤
 └──┴──┴──┘
 3x3 grid (6x3 units total).
-**Tile Size (2,2)**
+
+Tile Size (2,2)
 ┌──┬──┬──┐
 ├──┼──┼──┤
 └──┴──┴──┘
 3x3 grid (6x6 units total).
+```
 
 ##### e. **Floor Threshold**
 
